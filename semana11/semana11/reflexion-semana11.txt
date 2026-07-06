@@ -1,0 +1,1 @@
+Una plataforma de participación ciudadana necesita una base de datos para organizar la información. La autenticación controla el acceso de los usuarios y protege funciones importantes. También es fundamental cuidar la privacidad y limitar el acceso a los datos. Estas medidas mejoran la transparencia, el seguimiento de las causas y la confianza de la comunidad.

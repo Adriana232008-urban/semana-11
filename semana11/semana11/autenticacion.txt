@@ -1,0 +1,1 @@
+El login permite identificar al usuario antes de acceder a funciones de la plataforma. Algunas rutas deben protegerse porque contienen información privada o acciones administrativas. No deben exponerse contraseñas, documentos, teléfonos, direcciones, tokens, claves API ni datos sensibles. La autenticación mejora la seguridad y protege la privacidad.

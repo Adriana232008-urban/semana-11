@@ -1,0 +1,1 @@
+La interfaz tendrá un formulario para crear una causa con título, descripción y fecha. Mostrará una lista de causas disponibles. Cada causa tendrá un botón de apoyo y un contador de apoyos. Será sencilla y no mostrará información privada.
